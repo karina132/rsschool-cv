@@ -25,12 +25,12 @@ Changes in technology are rapid these days, but I am ready and want to develop t
 * JavaScript, React
 * Python, Django
 * MySQL
-* GitHub
+* Git
 * Object oriented programming and functional programming
 
 ## Code examples
 
-See on my [GitHub](https://github.com/karina132)
+See on my [Git](https://github.com/karina132)
 
 ## Experience
 
@@ -56,4 +56,4 @@ Regular attendee of specialized *meetups* (Women IT Week), *events*  (EPAM SEC, 
 ## Language
 
 * **Russian** - native
-* **English** - B1/B2
+* **English** - B1
