@@ -19,6 +19,40 @@ Changes in technology are rapid these days, but I am ready and want to develop t
 * *Mathematics and programming* - I have strong analytical skills and the desire to learn.
 * *Traveling* - I visited 20 countries and it was a valuable life experience. It helps boarden horizons and appreciat other cultures. I'm ready for business trips and relocation.
 
+## Skills
+
+* C++
+* JavaScript, React
+* Python, Django
+* MySQL
+* GitHub
+* Object oriented programming and functional programming
+
+## Code examples
+
+See on my [GitHub](https://github.com/karina132)
+
+## Experience
+
+* Window application for analyzing graphs and finding the shortest path written in  Python
+* Window application for photo editing and filtering written in  Python
+* Website development written using React technology
+* Window application as a course project written in  C++
+* Laboratory works at the university written in C++, Java, MySQL
+* Blog written using Django technology - in progress
+
+#### Another experience
+2+ years of volunteering experience in organizing large and international events and conferences on information technology, marketing and business.
+
+## Education
+_**September 2017 - Present**_ - Belarusian State Univerity of Informatics and Radioelectronics - Information Systems and Technologies in Business Management.
+<br>
+_**May 2019 - June 2019**_ - courses "Software Development" in the direction of Frontend from Itransition
+<br>
+_**September 2019 - Present**_ - The Rolling Scopes School in the direction of Frontend
+
+Regular attendee of specialized *meetups* (Women IT Week), *events*  (EPAM SEC, Dev GAMM, EMERGE), *hackathons* (Social Weekend) and *workshops* (Django Girls).
+
 ## Language
 
 * **Russian** - native
