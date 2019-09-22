@@ -30,7 +30,7 @@ Changes in technology are rapid these days, but I am ready and want to develop t
 
 ## Code examples
 
-See on my [Git](https://github.com/karina132)
+See on my [GitHub](https://github.com/karina132)
 
 ## Experience
 
